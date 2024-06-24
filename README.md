@@ -1,7 +1,7 @@
 # DigiKeyboard-project
 Made by Kaiden Timm
 ## What is this?
-For this project I made python code for data exfiltration VIA a python TCP socket to a C2 server.
+For this project I made python code for data exfiltration via a python TCP socket to a C2 server.
 
 The DigiSpark is a very cheap alternitive to the USB Rubber Ducky, it essentially tells the conmuter it is plugged into that it is a USB keyboard, however this USB keyboard is programmable and types at extremely fast speeds. 
 
