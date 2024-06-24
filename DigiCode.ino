@@ -41,7 +41,7 @@ void loop() {
       DigiKeyboard.sendKeyStroke(KEY_RIGHT_ARROW);
     }
     //replace with your server IPs
-    DigiKeyboard.print("192.168.0.134");
+    DigiKeyboard.print("0.0.0.0");
 
     DigiKeyboard.delay(500);
     DigiKeyboard.sendKeyStroke(KEY_X, MOD_CONTROL_LEFT);
