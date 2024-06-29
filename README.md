@@ -24,3 +24,5 @@ I commented out the code so that it is easier to read and modify
 If you are having issues let me know and I will try to help, I'm not an expert so no guarantees.
 
 Happy Hacking :)
+
+#Note: I am not responsible for anyone who choses to use this maliciously, this is for educational purposes only.
