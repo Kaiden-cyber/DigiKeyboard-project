@@ -25,4 +25,4 @@ If you are having issues let me know and I will try to help, I'm not an expert s
 
 Happy Hacking :)
 
-#Note: I am not responsible for anyone who choses to use this maliciously, this is for educational purposes only.
+# Note: I am not responsible for anyone who choses to use this maliciously, this is for educational purposes only.
