@@ -1,5 +1,5 @@
 # DigiKeyboard-project
-Made by Kaiden Timm
+Made by me
 ## What is this?
 For this project I made python code for data exfiltration via a python TCP socket to a C2 server.
 
