@@ -1,5 +1,34 @@
 import socket
 import time
+
+
+#Print Silly Rabbit
+ascii_art = ''' 
+                    ____     ____
+                  /'    |   |    \ 
+                /    /  |   | \   \ 
+              /    / |  |   |  \   \ 
+             (   /   |  """"   |\   \   
+             | /   / /^\    /^\  \  _|
+              ~   | |   |  |   | | ~
+                  | |__O|__|O__| |
+                /~~      \/     ~~\ 
+               /   (      |      )  \ 
+               /,   \____/^\___/'   \ 
+                / -____-|_|_|-____-\ 
+           _____|_/~~~~\____/~~~~\__|_____
+          |____|_|     |____|     |__|____|
+              | `^-^-^'    `^-^-^'    |
+              |                       |    Program Created By:
+              |     "Silly Rabbit,    |  github.com/Kaiden-cyber
+              |                       |
+              |   Trix are for kids!" |
+              |                       |
+              |                       |
+              |                       |
+              |                       |
+               -----------------------'''
+print(ascii_art)
 #Connect to the server
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 #Replace with your server IP
