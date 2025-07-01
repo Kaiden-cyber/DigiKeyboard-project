@@ -34,7 +34,7 @@ ascii_art = '''
               |                       |    Program Created By:
               |     "Silly Rabbit,    |  github.com/Kaiden-cyber
               |                       |
-              |   Trix are for kids!" |
+              |  Root is for Admins!" |
               |                       |
               |                       |
               |                       |
